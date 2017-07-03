@@ -1,4 +1,4 @@
-# chrome-customtab-helper-android
+# chromecustomtabhelper-android
 SmartAndSoft Chrome Custom Tabs Helper
 
 ## Author
