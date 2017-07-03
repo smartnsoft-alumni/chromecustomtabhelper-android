@@ -8,6 +8,3 @@ The Android Team @Smart&Soft, software agency [http://www.smartnsoft.com](http:/
 ## License
 
 chromecustomtabhelper is available under the MIT license. See the LICENSE file for more info.
-
-
-
